@@ -4,10 +4,9 @@
 }
 
 section{
-  /*  display: inline-flex;*/
-   display:block;
-   margin-right: 30px;
-   width: 101%;
+        margin: 0 auto;
+        margin-left:25px;
+        margin-top: 50px;
 }
 
 .right {
@@ -19,6 +18,14 @@ p {
 		font-size: 25px;
 }
 
-footer{
+.tile {
+        display: inline-block;
+        width: 22%;
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-top:10px;
+}
 
+footer{
+   
 }
