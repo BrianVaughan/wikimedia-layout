@@ -1,1 +1,14 @@
-top: 
+#container{
+	margin:0 auto;
+	width:70%;
+}
+
+section{
+    display: inline-flex;
+
+}
+
+div{
+	display: block;
+	margin-right: 30;
+}
