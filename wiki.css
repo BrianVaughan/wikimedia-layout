@@ -4,11 +4,21 @@
 }
 
 section{
-    display: inline-flex;
+  /*  display: inline-flex;*/
+   display:block;
+   margin-right: 30px;
+   width: 101%;
+}
+
+.right {
+	text-align: right;
 
 }
 
-div{
-	display: block;
-	margin-right: 30;
+p {
+		font-size: 25px;
+}
+
+footer{
+
 }
