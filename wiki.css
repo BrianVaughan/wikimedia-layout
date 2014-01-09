@@ -9,6 +9,10 @@ section{
         margin-top: 50px;
 }
 
+.center {
+	text-align: center;
+}
+
 .right {
 	text-align: right;
 
@@ -16,6 +20,10 @@ section{
 
 p {
 		font-size: 25px;
+}
+
+#para{
+	font-size: 14px;
 }
 
 .tile {
@@ -27,5 +35,5 @@ p {
 }
 
 footer{
-   
+   font-size: 10px;
 }
